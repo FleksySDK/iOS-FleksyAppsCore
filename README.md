@@ -1,2 +1,3 @@
 # iOS-FleksyAppsCore
-FleksyAppsCore Swift package
+
+This repository contains the specifications of FleksyAppsCore for iOS
