@@ -1,4 +1,4 @@
-// swift-tools-version:5.6
+// swift-tools-version:5.7
 
 import PackageDescription
 
@@ -15,8 +15,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "FleksyAppsCore",
-            url: "https://spm.fleksy.com/FleksyAppsCore/v0.9.1/FleksyAppsCore-0.9.1.xcframework.zip",
-            checksum: "05a200477c662caa7ec629baca139f44d3ab135b43faf7242b7e97de6237ba1b"
+            url: "https://spm.fleksy.com/FleksyAppsCore/v1.0.0/FleksyAppsCore-1.0.0.xcframework.zip",
+            checksum: "c6b8269780957185fcd62f7d4a6a13c3bf8975b5aba1afc9aa55180a552793cd"
         )
     ]
 )
